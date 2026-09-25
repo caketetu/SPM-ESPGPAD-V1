@@ -2,6 +2,7 @@
 #===各フォルダに入れる===
 #For KiCAD
 /*-backups
+fp-info-cache
 #ガーバーデータはここに入れて無視する
 /gerber
 
